@@ -1,2 +1,2 @@
-# Tread
-Tread, Java
+# Thread
+Thread, Java
